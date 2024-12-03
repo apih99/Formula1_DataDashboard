@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastF1 cache directory
+cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db 
