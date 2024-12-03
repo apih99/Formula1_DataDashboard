@@ -29,8 +29,8 @@ A comprehensive Formula 1 data analysis and visualization platform built with St
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/apih99/Formula1_DataDashboard]
-cd [Formula1_DataDashboard]
+git clone https://github.com/apih99/Formula1_DataDashboard
+cd Formula1_DataDashboard
 ```
 
 2. **Install dependencies**
