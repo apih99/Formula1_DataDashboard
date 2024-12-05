@@ -6,7 +6,7 @@ from pages.telemetry import show_telemetry_page
 from pages.comparison import show_comparison_page
 from pages.position_changes import show_position_changes_page
 from pages.lap_distribution import show_lap_distribution_page
-
+from pages.gear_shift import show_gear_shift_page
 # Create cache directory if it doesn't exist
 cache_dir = 'cache'
 if not os.path.exists(cache_dir):
@@ -34,7 +34,8 @@ def main():
         "Telemetry Analysis": show_telemetry_page,
         "Driver Comparison": show_comparison_page,
         "Position Changes": show_position_changes_page,
-        "Lap Time Distribution": show_lap_distribution_page
+        "Lap Time Distribution": show_lap_distribution_page,
+        "Gear Shift Analysis": show_gear_shift_page
     }
     
     # Let the user select the page
