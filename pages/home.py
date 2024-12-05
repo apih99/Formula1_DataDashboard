@@ -24,6 +24,11 @@ def show_home_page():
        - Track position changes throughout a race
        - Visualize overtakes and position gains/losses
     
+    4. **Lap Time Distribution**
+       - Visualize lap time distributions for all drivers
+       - Compare performance across different tire compounds
+       - View detailed lap time statistics
+    
     ### How to Use:
     
     1. Select a page from the sidebar menu
